@@ -1,26 +1,10 @@
 #!/bin/bash
 
 packages=(
-    "epiphany"
-    "gnome-calculator"
-    "gnome-clocks"
-    "gnome-calendar"
-    "totem"
-    "decibels"
-    "gnome-music"
-    "gnome-photos"
-    "gnome-maps"
-    "gnome-contacts"
-    "gnome-software"
-    "gnome-weather"
-    "gnome-text-editor"
-    "gnome-characters"
-    "gnome-connections"
+    "xfce4-dict"
     "vim"
-    "gnome-tour"
-    "gnome-remote-desktop"
-    "malcontent"
-    "snapshot"
+    "parole"
+    "ristretto"
 )
 
 for package in "${packages[@]}"; do
