@@ -19,6 +19,7 @@ packages=(
     "vim"
     "gnome-tour"
     "gnome-remote-desktop"
+    "malcontent"
     "snapshot"
 )
 
