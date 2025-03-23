@@ -18,7 +18,7 @@ packages=(
     "vim"
     "gnome-tour"
     "gnome-remote-desktop"
-    "gnome-snapshot"
+    "snapshot"
 )
 
 for package in "${packages[@]}"; do
