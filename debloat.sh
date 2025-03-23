@@ -14,6 +14,7 @@ packages=(
     "gnome-software"
     "gnome-weather"
     "gnome-text-editor"
+    "gnome-characters"
     "gnome-connections"
     "vim"
     "gnome-tour"
