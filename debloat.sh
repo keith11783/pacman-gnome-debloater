@@ -6,12 +6,16 @@ packages=(
     "gnome-clocks"
     "gnome-calendar"
     "totem"
+    "decibels"
     "gnome-music"
     "gnome-photos"
+    "gnome-maps"
     "gnome-contacts"
     "gnome-software"
     "gnome-weather"
-    "gedit"
+    "gnome-text-editor"
+    "gnome-connections"
+    "vim"
 )
 
 for package in "${packages[@]}"; do
